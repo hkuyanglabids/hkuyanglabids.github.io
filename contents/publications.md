@@ -1,5 +1,5 @@
 
-- *<strong><strong>Li, S.</strong></strong>, Pei Zhou , Yanchao Yang. (2023). Infoground: Grond Manipulation Concepts with Maximal Information Boost* [[Paper]](https://arxiv.org/abs/2310.01037) [[Code]](https://github.com/senli1073/SeisT)
+- *<strong><strong> Pei Zhou , Yanchao Yang. (2023). Infoground: Grond Manipulation Concepts with Maximal Information Boost* [[Paper]](https://arxiv.org/abs/2310.01037) [[Code]](https://github.com/senli1073/SeisT)
 
 <!-- - *Cao, A., Yang, X., Wang, C., <strong><strong>Li, S.</strong></strong>, Liu, Y., Dou, L. & Niu, Q. (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
 
