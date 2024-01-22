@@ -3,7 +3,7 @@
   
 
 
-- First-prize Academic Scholarship, 2023.
+<!-- - First-prize Academic Scholarship, 2023.
 
 - Freshman Academic Scholarship, 2022.
 
@@ -11,4 +11,4 @@
 
 - First-prize Enterprise Scholarship, 2021.
 
-- First-prize Academic Scholarship, 2019.
+- First-prize Academic Scholarship, 2019. -->
