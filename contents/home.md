@@ -1,7 +1,7 @@
 
 Yang Lab consists of a group of research postgraduate students in the Institute of Data Science at the University Of Hong Kong, lead by [Professor Yanchao Yang](https://https://yanchaoyang.github.io/). Our primary objective is to understand and develop intelligent systems in the field of embodied artificial intelligence such that the agents can learn and interact with the environment they are in with minimal human supervision. Our research is divided into 3 main groups:
 
-a. Extraction of useful information efficiently from large amouns of unlabeled data
+a. Extraction of useful information efficiently from large amounts of unlabeled data
 
 b. Encoding the extra information in semantically meaningful structures 
 
