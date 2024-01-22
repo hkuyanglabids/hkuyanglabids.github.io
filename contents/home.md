@@ -10,7 +10,7 @@ c. Deriving intelligent actions from the information encoded in the representati
 
 
 #### Socials
-yanglabids[at]gmail.com
+For more information about our lab and the projects we are working on , contact us at - yanglabids[at]gmail.com
 
 Follow us on [Twitter](https://https://twitter.com/YangLabIDS) to keep up with our latest work.
 
