@@ -3,12 +3,12 @@
   
 
 
-<!-- - First-prize Academic Scholarship, 2023.
+- Li Sun (Zhejiang University).
 
-- Freshman Academic Scholarship, 2022.
+- Qian Luo (GeorgiaTech).
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Qihang Fang (Shandong University).
 
-- First-prize Enterprise Scholarship, 2021.
+- Qingyuan Zheng (Shanghai Jiao Tong University).
 
-- First-prize Academic Scholarship, 2019. -->
+- Yunchao Zhang (Zhejiang University).
