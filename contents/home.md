@@ -1,5 +1,5 @@
 
-Yang Lab consists of a group of research postgraduate students in the Institute of Data Science at the University Of Hong Kong, lead by Professor Yanchao Yang. Our primary objective is to understand and develop intelligent systems in the field of embodied artificial intelligence such that the agents can learn and interact with the environment they are in with minimal human supervision. Our research is divided into 3 main groups:
+Yang Lab consists of a group of research postgraduate students in the Institute of Data Science at the University Of Hong Kong, lead by [Professor Yanchao Yang](https://https://yanchaoyang.github.io/). Our primary objective is to understand and develop intelligent systems in the field of embodied artificial intelligence such that the agents can learn and interact with the environment they are in with minimal human supervision. Our research is divided into 3 main groups:
 
 a. Extraction of useful information efficiently from large amouns of unlabeled data
 
@@ -11,7 +11,8 @@ c. Deriving intelligent actions from the information encoded in the representati
 
 #### Socials
 yanglabids[at]gmail.com
-Twitter(https://https://twitter.com/YangLabIDS)
+
+([Twitter](https://https://twitter.com/YangLabIDS))
 
 #### News
 2024.01 - HKU IDS organised the inaugural edition of the Conference on Parsimony and Learning (CPAL) .
