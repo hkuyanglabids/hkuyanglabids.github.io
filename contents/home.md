@@ -9,8 +9,9 @@ c. Deriving intelligent actions from the information encoded in the representati
 
 
 
-#### Email
+#### Socials
 yanglabids[at]gmail.com
+Twitter(https://https://twitter.com/YangLabIDS)
 
 #### News
 2024.01 - HKU IDS organised the inaugural edition of the Conference on Parsimony and Learning (CPAL) .
