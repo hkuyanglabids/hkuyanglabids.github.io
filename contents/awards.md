@@ -3,7 +3,7 @@
   
 
 
-- Li Sun (Zhejiang University).
+<!-- - Li Sun (Zhejiang University).
 
 - Qian Luo (GeorgiaTech).
 
@@ -11,4 +11,4 @@
 
 - Qingyuan Zheng (Shanghai Jiao Tong University).
 
-- Yunchao Zhang (Zhejiang University).
+- Yunchao Zhang (Zhejiang University). -->
